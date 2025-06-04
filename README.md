@@ -18,6 +18,10 @@ hay por albumy cuantos lanzamientos hubo por año.
 2. Instala las librerias necesarias usando el comando: pip install pandas matplotlib seaborn
 3. Ejecuta el archivo analisis.py, y apareceran los graficos con el analisis de los albumes prevamiente añadidos.
 
+## Ejemplo de grafico generado
+![Grafico de popularidad](Figure_1.png)
+
 ---
 
 Creado por [henryydata](https://github.com/henryydata)
+
